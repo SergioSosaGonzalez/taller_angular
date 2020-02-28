@@ -1,14 +1,14 @@
 En la siguiente carpeta se encontrará todo el material necesario para llevar el curso.
 
-Dirección de API: https://taller-angular.herokuapp.com/
+Dirección de API: https://swapi.co/api/
 
 Pasos para inciar el curso de angular:
 
 - Instalar la versión estable de NodeJS del siguiente link: https://nodejs.org/es/
 
-- Instalar angular con el siguiente comando: npm install -g @angular/cli@latest.
+- Entrar en la terminal o CMD y poner el siguiente comando para instalar la ultima versión de angular: npm install -g @angular/cli@latest.
 
-- Entrar en la terminal o CMD y ubicarse en alguna carpeta de su preferencia para iniciar con el proyecto de angular.
+- Seguir en terminal o CMD y ubicarse en alguna carpeta de su preferencia para iniciar con el proyecto de angular.
 
 - Crear un proyecto de angular con el siguiente comando: ng new tallerAngular. En caso de que les pregunte si quieren agregar el archivo routing le dicen que sí y si pregunta que tipo de lenguaje de hojas de estilo que desea usar seleccione CSS.
 
